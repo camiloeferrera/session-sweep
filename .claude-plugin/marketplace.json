@@ -1,0 +1,14 @@
+{
+  "name": "session-sweep",
+  "owner": {
+    "name": "camiloeferrera"
+  },
+  "plugins": [
+    {
+      "name": "session-sweep",
+      "source": "./",
+      "description": "Lista y borra sesiones guardadas de Claude Code escribiendo :sessions, sin pasar por Claude."
+    }
+  ],
+  "description": "Plugin para listar y borrar sesiones guardadas de Claude Code desde el chat."
+}

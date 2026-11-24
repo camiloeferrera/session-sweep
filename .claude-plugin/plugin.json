@@ -1,0 +1,16 @@
+{
+  "name": "session-sweep",
+  "version": "0.1.0",
+  "description": "Lista y borra sesiones guardadas de Claude Code escribiendo :sessions, sin pasar por Claude.",
+  "author": {
+    "name": "camiloeferrera",
+    "url": "https://github.com/camiloeferrera"
+  },
+  "repository": "https://github.com/camiloeferrera/session-sweep",
+  "license": "MIT",
+  "keywords": [
+    "sessions",
+    "cleanup",
+    "hooks"
+  ]
+}
